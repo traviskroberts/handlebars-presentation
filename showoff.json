@@ -1,0 +1,8 @@
+{
+  "name": "Handlebars + Rails 3 + CoffeeScript",
+  "description": "Presentation for the Nashville Rails Meetup",
+  "author": "Travis Roberts",
+  "sections": [
+    {"section":"slides"}
+  ]
+}
