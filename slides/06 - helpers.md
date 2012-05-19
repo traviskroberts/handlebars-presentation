@@ -15,3 +15,5 @@
 	}
 	
 	<h1>{{#titlelize variable_name}}</h1>
+	
+	<h1>Underscored Variable Name</h1>
